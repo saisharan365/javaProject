@@ -1,2 +1,7 @@
-# javaProject
-java &amp; maven dependency web app
+# devops
+CI/CD Pipeline Building
+Test
+Test01
+Test02
+
+Gitflow Commands Execution
